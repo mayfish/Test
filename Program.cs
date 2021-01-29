@@ -20,6 +20,7 @@ namespace ConsoleApp1
 
             Console.ReadKey();
             //https://docs.microsoft.com/zh-tw/dotnet/csharp/tutorials/intro-to-csharp/hello-world
+            //https://www.jetbrains.com/lp/mono/
         }
 
         /// <summary>
